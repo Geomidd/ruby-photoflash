@@ -31,3 +31,6 @@
 /config/master.key
 
 /postgres-data/*
+
+# Ignore application configuration
+/config/application.yml
